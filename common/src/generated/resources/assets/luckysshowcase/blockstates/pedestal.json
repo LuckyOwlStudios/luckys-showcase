@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "luckysshowcase:block/weapon_pedestal",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "luckysshowcase:block/weapon_pedestal"
+    },
+    "facing=south": {
+      "model": "luckysshowcase:block/weapon_pedestal",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "luckysshowcase:block/weapon_pedestal",
+      "y": 270
+    }
+  }
+}
