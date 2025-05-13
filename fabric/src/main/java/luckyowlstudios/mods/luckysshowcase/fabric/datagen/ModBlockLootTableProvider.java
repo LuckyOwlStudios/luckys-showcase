@@ -15,5 +15,7 @@ public class ModBlockLootTableProvider extends FabricBlockLootTableProvider {
     @Override
     public void generate() {
         dropSelf(ModBlocks.TOOL_RACK);
+        dropSelf(ModBlocks.WEAPON_STAND);
+        dropSelf(ModBlocks.PEDESTAL);
     }
 }

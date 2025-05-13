@@ -6,15 +6,14 @@
       "tag": "minecraft:planks"
     },
     "S": {
-      "item": "minecraft:stick"
+      "item": "minecraft:iron_ingot"
     }
   },
   "pattern": [
-    "SSS",
-    "DDD"
+    "SDS"
   ],
   "result": {
-    "count": 3,
+    "count": 1,
     "id": "luckysshowcase:tool_rack"
   }
 }

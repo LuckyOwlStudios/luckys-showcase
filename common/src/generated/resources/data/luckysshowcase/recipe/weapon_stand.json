@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "minecraft:stone"
+    },
+    "S": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    " D ",
+    "SSS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "luckysshowcase:weapon_stand"
+  }
+}

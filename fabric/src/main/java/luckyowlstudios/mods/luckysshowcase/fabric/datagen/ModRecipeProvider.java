@@ -23,12 +23,24 @@ public class ModRecipeProvider extends FabricRecipeProvider {
 
     @Override
     public void buildRecipes(RecipeOutput exporter) {
-        shaped(RecipeCategory.DECORATIONS, ModBlocks.TOOL_RACK, 3)
-                .pattern("SSS")
-                .pattern("DDD")
+        shaped(RecipeCategory.DECORATIONS, ModBlocks.TOOL_RACK, 1)
+                .pattern("SDS")
                 .define('D', ItemTags.PLANKS)
-                .define('S', Items.STICK)
-                .unlockedBy("has_diamond", has(Items.DIAMOND))
+                .define('S', Items.IRON_INGOT)
+                .unlockedBy("has_iron", has(Items.IRON_INGOT))
+                .save(exporter);
+        shaped(RecipeCategory.DECORATIONS, ModBlocks.WEAPON_STAND, 1)
+                .pattern(" D ")
+                .pattern("SSS")
+                .define('D', Items.STONE)
+                .define('S', ItemTags.PLANKS)
+                .unlockedBy("has_stone", has(Items.STONE))
+                .save(exporter);
+        shaped(RecipeCategory.DECORATIONS, ModBlocks.PEDESTAL, 1)
+                .pattern("SSS")
+                .pattern(" S ")
+                .define('S', Items.STONE_BRICKS)
+                .unlockedBy("has_stone", has(Items.STONE))
                 .save(exporter);
     }
 

@@ -1,5 +1,12 @@
 {
-  "itemGroup.luckysshowcase.luckysshowcase": "Lucky's Showcase",
+  "itemGroup.luckysshowcase.luckysshowcase": "Showcase",
   "block.luckysshowcase.tool_rack": "Tool Rack",
-  "block.luckysshowcase.pedestal": "Pedestal"
+  "block.luckysshowcase.weapon_stand": "Weapon Stand",
+  "block.luckysshowcase.pedestal": "Pedestal",
+
+  "tooltip.luckysshowcase.can_hold": "Can Hold: ",
+  "tooltip.luckysshowcase.can_apply": "Can Apply: ",
+  "tooltip.luckysshowcase.weapons_and_tools": "Weapons & Tools",
+  "tooltip.luckysshowcase.items": "Items",
+  "tooltip.luckysshowcase.carpets": "Carpets"
 }

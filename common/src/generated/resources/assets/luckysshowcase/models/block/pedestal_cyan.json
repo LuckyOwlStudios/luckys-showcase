@@ -1,0 +1,7 @@
+{
+  "parent": "luckysshowcase:block/pedestal_carpet_overlay",
+  "textures": {
+    "side": "luckysshowcase:block/pedestal_cyan_side",
+    "top": "luckysshowcase:block/pedestal_cyan_top"
+  }
+}

@@ -1,19 +1,145 @@
 {
-  "variants": {
-    "facing=east": {
-      "model": "luckysshowcase:block/weapon_pedestal",
-      "y": 90
+  "multipart": [
+    {
+      "apply": {
+        "model": "luckysshowcase:block/pedestal"
+      }
     },
-    "facing=north": {
-      "model": "luckysshowcase:block/weapon_pedestal"
+    {
+      "apply": {
+        "model": "luckysshowcase:block/pedestal_white"
+      },
+      "when": {
+        "carpet_type": "white"
+      }
     },
-    "facing=south": {
-      "model": "luckysshowcase:block/weapon_pedestal",
-      "y": 180
+    {
+      "apply": {
+        "model": "luckysshowcase:block/pedestal_light_gray"
+      },
+      "when": {
+        "carpet_type": "light_gray"
+      }
     },
-    "facing=west": {
-      "model": "luckysshowcase:block/weapon_pedestal",
-      "y": 270
+    {
+      "apply": {
+        "model": "luckysshowcase:block/pedestal_gray"
+      },
+      "when": {
+        "carpet_type": "gray"
+      }
+    },
+    {
+      "apply": {
+        "model": "luckysshowcase:block/pedestal_black"
+      },
+      "when": {
+        "carpet_type": "black"
+      }
+    },
+    {
+      "apply": {
+        "model": "luckysshowcase:block/pedestal_brown"
+      },
+      "when": {
+        "carpet_type": "brown"
+      }
+    },
+    {
+      "apply": {
+        "model": "luckysshowcase:block/pedestal_red"
+      },
+      "when": {
+        "carpet_type": "red"
+      }
+    },
+    {
+      "apply": {
+        "model": "luckysshowcase:block/pedestal_orange"
+      },
+      "when": {
+        "carpet_type": "orange"
+      }
+    },
+    {
+      "apply": {
+        "model": "luckysshowcase:block/pedestal_yellow"
+      },
+      "when": {
+        "carpet_type": "yellow"
+      }
+    },
+    {
+      "apply": {
+        "model": "luckysshowcase:block/pedestal_lime"
+      },
+      "when": {
+        "carpet_type": "lime"
+      }
+    },
+    {
+      "apply": {
+        "model": "luckysshowcase:block/pedestal_green"
+      },
+      "when": {
+        "carpet_type": "green"
+      }
+    },
+    {
+      "apply": {
+        "model": "luckysshowcase:block/pedestal_cyan"
+      },
+      "when": {
+        "carpet_type": "cyan"
+      }
+    },
+    {
+      "apply": {
+        "model": "luckysshowcase:block/pedestal_light_blue"
+      },
+      "when": {
+        "carpet_type": "light_blue"
+      }
+    },
+    {
+      "apply": {
+        "model": "luckysshowcase:block/pedestal_blue"
+      },
+      "when": {
+        "carpet_type": "blue"
+      }
+    },
+    {
+      "apply": {
+        "model": "luckysshowcase:block/pedestal_purple"
+      },
+      "when": {
+        "carpet_type": "purple"
+      }
+    },
+    {
+      "apply": {
+        "model": "luckysshowcase:block/pedestal_magenta"
+      },
+      "when": {
+        "carpet_type": "magenta"
+      }
+    },
+    {
+      "apply": {
+        "model": "luckysshowcase:block/pedestal_pink"
+      },
+      "when": {
+        "carpet_type": "pink"
+      }
+    },
+    {
+      "apply": {
+        "model": "luckysshowcase:block/pedestal_trader"
+      },
+      "when": {
+        "carpet_type": "trader"
+      }
     }
-  }
+  ]
 }
