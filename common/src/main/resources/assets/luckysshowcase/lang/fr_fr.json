@@ -1,0 +1,12 @@
+{
+  "itemGroup.luckysshowcase.luckysshowcase": "Vitrine",
+  "block.luckysshowcase.tool_rack": "Support à outils",
+  "block.luckysshowcase.weapon_stand": "Présentoir d'armes",
+  "block.luckysshowcase.pedestal": "Piédestal",
+
+  "tooltip.luckysshowcase.can_hold": "Peut contenir : ",
+  "tooltip.luckysshowcase.can_apply": "Peut appliquer : ",
+  "tooltip.luckysshowcase.weapons_and_tools": "Armes et outils",
+  "tooltip.luckysshowcase.items": "Objets",
+  "tooltip.luckysshowcase.carpets": "Tapis"
+}

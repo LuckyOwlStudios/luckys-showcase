@@ -1,0 +1,12 @@
+{
+  "itemGroup.luckysshowcase.luckysshowcase": "Ausstellung",
+  "block.luckysshowcase.tool_rack": "Werkzeugregal",
+  "block.luckysshowcase.weapon_stand": "Waffenständer",
+  "block.luckysshowcase.pedestal": "Sockel",
+
+  "tooltip.luckysshowcase.can_hold": "Kann enthalten: ",
+  "tooltip.luckysshowcase.can_apply": "Kann anwenden: ",
+  "tooltip.luckysshowcase.weapons_and_tools": "Waffen & Werkzeuge",
+  "tooltip.luckysshowcase.items": "Gegenstände",
+  "tooltip.luckysshowcase.carpets": "Teppiche"
+}

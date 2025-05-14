@@ -1,0 +1,12 @@
+{
+  "itemGroup.luckysshowcase.luckysshowcase": "Витрина",
+  "block.luckysshowcase.tool_rack": "Стойка для инструментов",
+  "block.luckysshowcase.weapon_stand": "Подставка для оружия",
+  "block.luckysshowcase.pedestal": "Пьедестал",
+
+  "tooltip.luckysshowcase.can_hold": "Может содержать: ",
+  "tooltip.luckysshowcase.can_apply": "Можно применить: ",
+  "tooltip.luckysshowcase.weapons_and_tools": "Оружие и Инструменты",
+  "tooltip.luckysshowcase.items": "Предметы",
+  "tooltip.luckysshowcase.carpets": "Ковры"
+}

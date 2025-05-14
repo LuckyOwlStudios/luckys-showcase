@@ -1,0 +1,10 @@
+{  "itemGroup.luckysshowcase.luckysshowcase": "展示柜",
+  "block.luckysshowcase.tool_rack": "工具架",
+  "block.luckysshowcase.weapon_stand": "武器架",
+  "block.luckysshowcase.pedestal": "座",
+  "tooltip.luckysshowcase.can_hold": "可以容纳: ",
+  "tooltip.luckysshowcase.can_apply": "可以申请: ",
+  "tooltip.luckysshowcase.weapons_and_tools": "武器和工具",
+  "tooltip.luckysshowcase.items": "项目",
+  "tooltip.luckysshowcase.carpets": "地毯"
+}
