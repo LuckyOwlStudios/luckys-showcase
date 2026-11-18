@@ -18,5 +18,3 @@ policy:
             keys: ['NeoForge']
           - name: Fabric
             keys: ['Fabric']
-          - name: 'Forge'
-            keys: ['Forge']
